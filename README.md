@@ -1,2 +1,4 @@
 # hello_world
-first repositoty
+first repository
+
+hello this is my first github file. Embarking a new journey!!!
